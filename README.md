@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koushik-Zzz
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning Django Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail Koushik02269@gmail.com
 
