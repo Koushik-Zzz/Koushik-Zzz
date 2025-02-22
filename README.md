@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koushik-Zzz
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail Koushik02269@gmail.com
 
